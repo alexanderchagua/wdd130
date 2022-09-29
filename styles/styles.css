@@ -1,0 +1,10 @@
+.main-para {
+    font-size: 1.5em;
+    line-height: 1.5em;
+}
+
+#active {
+    background-color: rgb(222, 41, 41);
+    color: rgb(71, 212, 6);
+}
+
