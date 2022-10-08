@@ -1,10 +1,49 @@
-.main-para {
-    font-size: 1.5em;
-    line-height: 1.5em;
+img {
+    width: 50%;
 }
 
-#active {
-    background-color: rgb(222, 41, 41);
-    color: rgb(71, 212, 6);
+main p {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
 }
 
+a {
+    font-size: 2.5em;
+}
+
+
+
+
+
+h1 {
+    text-align: center;
+}
+
+nav, footer {
+    text-align: center;
+}
+
+img {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+
+nav, footer {
+    background-color: steelblue;
+    color: white;
+    padding: 50px;
+}
+
+body{background-color: rgb(63, 190, 13);}
+
+footer p {
+    font-size: 50px;
+    margin: 20px auto;
+}
+
+a:hover {
+    background-color: white;
+    color: steelblue;
+}
