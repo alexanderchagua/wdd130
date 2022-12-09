@@ -287,6 +287,8 @@ h1{color: #585b56;}
     padding: 50px;
 color:#585b56 ;}
 
+.home-grid{background-color:#585b56 ;}
+
 .securityfamele{height: 150px;
 width: 150px;
 margin: 20px;
@@ -316,7 +318,7 @@ h2{color: #e76b74;
 
 #title_r{display: grid;
     grid-template-columns: 1fr 1fr;
-    background-color: #585b56;
+    
 }
 
 .subtitle_r{display: grid;
@@ -326,6 +328,7 @@ h2{color: #e76b74;
 
 .text_main{text-align:center;
     font-family: "Barlow", ital;
+
 }
 
 .security_group{width: 70%;
@@ -340,13 +343,14 @@ transition: 0.3s;
 
 .resources_p{padding: 40px;
     font-family: "Barlow", ital;
-    color: #e76b74;
+    color: #585b56;
 }
 
 .subtitle_r2{position: relative;
-    left: 700px;
-    color: #585b56;
+    left: 750px;
+    color: #e76b74;
     font-family: "Barlow", ital;
+    padding: 30px;
 }
 .sutitle3{padding: 40px;
     font-family: "Barlow", ital;
